@@ -1,0 +1,13 @@
+pandas
+numpy
+pyarrow
+sqlalchemy
+kafka-python
+streamz
+apache-beam
+prefect
+fastapi
+uvicorn
+jupyterlab
+pytest
+psycopg2-binary
